@@ -5,7 +5,7 @@
         "type": "node",
         "request": "launch",
         "name": "Debug JavaScript",
-        "program": "${workspaceFolder}/stringrepeat.js",
+        "program": "${workspaceFolder}/mcqalgorithms.js",
         "stopOnEntry": false,
         "runtimeArgs": ["--nolazy"],
         "sourceMaps": true
